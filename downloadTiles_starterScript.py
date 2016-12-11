@@ -1,6 +1,6 @@
 
 """
-Starter code for Automating-GIS-processes/exercise-6 Problem 1:
+Starter code for Automating-GIS-processes/exercise-7 Problem 1:
 
     - Create a new folder on your computer (if it does not already exists)
     - Download each tile in the list (if they do not already exist) and save the raster files into the new directory
@@ -13,7 +13,7 @@ http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.2.
 Reference:
 Hansen, M. C., P. V. Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S. V. Stehman,
 S. J. Goetz, T. R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C. O. Justice, and J. R. G. Townshend. 2013.
-ìHigh-Resolution Global Maps of 21st-Century Forest Cover Change.î Science 342 (15 November): 850ñ53.
+‚ÄúHigh-Resolution Global Maps of 21st-Century Forest Cover Change.‚Äù Science 342 (15 November): 850‚Äì53.
 
 """
 #Import modules
