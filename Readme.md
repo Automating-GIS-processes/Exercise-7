@@ -30,7 +30,7 @@ Using a python script, execute the following steps:
 ### Problem 2: Delineate forest areas from the rasters
 - **Create a binary forest/non-forest layer** from each of the input tiles (using `gdal_calc.py`)
 - **Mosaic** the tiles into one layer and **reduce the output resolution** to ~1km x 1km (using `gdalwarp`)
-- [**Optional: Vectorize**] the forest areas and store them as a shapefile (not included in lesson, you can try to figure out how to do this!)
+- **Optional: Vectorize** the forest areas and store them as a shapefile (not included in lesson, you can try to figure out how to do this!)
 - Document your work on github (code, Figure of the output raster/vector)
 
 *Note that you need to indicate the output resolution in the units of then input file.* 
