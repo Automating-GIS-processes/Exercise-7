@@ -33,7 +33,7 @@ Using a python script, execute the following steps:
 - [**Optional: Vectorize**] the forest areas and store them as a shapefile (not included in lesson, you can try to figure out how to do this!)
 - Document your work on github (code, Figure of the output raster/vector)
 
-*Problem 2 can be completed using Gdal command line utility tools `gdal_calc.py` and `gdalwarp` which can also be run as standalone tools from the Terminal/Command prompt. You can try running the tools via Python as subprocess, or use Python for generating the syntax for the tools.* 
+*Note that you need to indicate the output resolution in the units of then input file.* 
 
 
 ###**Reference:**
