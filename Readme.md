@@ -25,7 +25,7 @@ Using a python script, execute the following steps:
 - **Download each tile** in the list (if they do not already exist) using `urllib.request` and save the raster files into the new directory
 - **Print out statistics** (min, max, mean) of each downloaded tile and save the info to a text file
 
-*For problem 1, a starter code [downloadTiles.py](downloadTiles.py) is provided with further instructions. However, feel free to come up with your own approach to the problem!* 
+*For problem 1, a starter code [downloadTiles.py](downloadTiles_starterScript.py) is provided with further instructions. However, feel free to come up with your own approach to the problem!* 
 
 ### Problem 2: Delineate forest areas from the rasters
 - **Create a binary forest/non-forest layer** from each of the input tiles (using `gdal_calc.py`)
