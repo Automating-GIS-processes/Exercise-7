@@ -1,4 +1,4 @@
-## exercise 7: Delineate forest areas from canopy cover data
+## Exercise 7: Delineate forest areas from canopy cover data
 
 ### Goal of the exercise
 In this exercise we are going to work with the **[Global Forest Change Dataset](http://earthenginepartners.appspot.com/science-2013-global-forest) by Hansen et al (2013) in order to generate a forest layer for our area of interest**. The purpose of this exercise is to practice how to automate the whole processing chain including data download, processing and visualization. During this exercise you will practice the basic raster processing steps introduced in [lesson 7](https://github.com/Automating-GIS-processes/Lesson-7-Automating-Raster-Data-Processing/blob/master/Python-and-Gdal.ipynb). 
