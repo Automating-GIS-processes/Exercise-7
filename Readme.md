@@ -3,7 +3,7 @@
 ### Goal of the exercise
 In this exercise we are going to work with the **[Global Forest Change Dataset](http://earthenginepartners.appspot.com/science-2013-global-forest) by Hansen et al (2013) in order to generate a forest layer for our area of interest**. The purpose of this exercise is to practice how to automate the whole processing chain including data download, processing and visualization. During this exercise you will practice the basic raster processing steps introduced in [lesson 7](https://github.com/Automating-GIS-processes/Lesson-7-Automating-Raster-Data-Processing/blob/master/Python-and-Gdal.ipynb). 
 
-Additional hints will be added on the [hints page](https://github.com/Automating-GIS-processes/Lesson-7-Automating-Raster-Data-Processing/blob/master/hints-exercise-7) if needed.
+Additional hints will be added on the [hints page](https://github.com/Automating-GIS-processes/Lesson-7-Automating-Raster-Data-Processing/blob/master/hits-exercise-7.md) if needed.
 
 ### Source data
 The Global Forest Change Dataset consists of several different products than are downloadable from [here](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.2.html) For delineating forest areas, we will use the tree canopy cover data from year 2000 (*treecover2000*) and use a treshold of 50 % canopy cover for detecting forested areas. 
